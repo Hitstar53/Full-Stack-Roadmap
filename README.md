@@ -1,4 +1,4 @@
-# Full-Stack-Roadmap
+# Full Stack Web Deve;oper Roadmap
 ## Pre Requisites
 1. Figma + Canva
 2. Linux Bash
