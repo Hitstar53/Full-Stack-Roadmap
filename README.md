@@ -9,7 +9,7 @@
 
 ## Frontend
 1. HTML & CSS Basics <img align="right" src="https://progress-bar.dev/85"/>
-2. Bootstrap + Tailwind CSS <img align="right" src="https://progress-bar.dev/30"/>
+2. Bootstrap + Tailwind <img align="right" src="https://progress-bar.dev/30"/>
 3. JavaScript Basics <img align="right" src="https://progress-bar.dev/65"/>
 4. REACT Framework <img align="right" src="https://progress-bar.dev/0"/>
 5. Material UI <img align="right" src="https://progress-bar.dev/0"/>
