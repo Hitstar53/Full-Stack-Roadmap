@@ -4,17 +4,17 @@
 2. Linux Bash
 3. Git & Git Bash
 ## Frontend
-### HTML & CSS Basics
-### Bootstrap + Tailwind CSS
-### JavaScript Basics
-### REACT + Material UI
+1. HTML & CSS Basics
+2. Bootstrap + Tailwind CSS
+3. JavaScript Basics
+4. REACT + Material UI
 ## Backend 
-### Django & Flask
-### Python Advanced
+1. Django & Flask
+2. Python Advanced
 ## Database
-### MongoDB & Supabase
-### MySQL & PostgreSQL
+1. MongoDB & Supabase
+2. MySQL & PostgreSQL
 ## Deployment 
-### DigitalOcean + Railways
-### Github Pages
-### Netlify + Vercel
+1. DigitalOcean + Railways
+2. Github Pages
+3. Netlify + Vercel
