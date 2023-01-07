@@ -21,7 +21,8 @@
 
 ## Database
 1. MySQL & PostgreSQL <img align="right" src="https://progress-bar.dev/60"/>
-2. MongoDB & Supabase <img align="right" src="https://progress-bar.dev/0"/>
+2. MongoDB <img align="right" src="https://progress-bar.dev/15"/>
+3. Firebase or Supabase <img align="right" src="https://progress-bar.dev/0"/>
 
 ## Deployment 
 1. Github Pages <img align="right" src="https://progress-bar.dev/50"/>
