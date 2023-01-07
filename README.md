@@ -6,8 +6,8 @@
 2. Linux Bash
 3. Git & Git Bash
 
-![image](https://user-images.githubusercontent.com/84141920/211141054-1f45023c-b269-420d-8389-ee09441f8f53.png) 
-<img src="https://user-images.githubusercontent.com/84141920/211141054-1f45023c-b269-420d-8389-ee09441f8f53.png" width="200" height="200" />
+<img src="https://user-images.githubusercontent.com/84141920/211141054-1f45023c-b269-420d-8389-ee09441f8f53.png" width="50" height="50"/>   
+
 ## Frontend
 1. HTML & CSS Basics
 2. Bootstrap + Tailwind CSS
