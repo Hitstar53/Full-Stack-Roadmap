@@ -1,8 +1,8 @@
 # Full Stack Web Developer
 ## Pre Requisites
-### Figma + Canva
-### Linux Bash
-### Git & Git Bash
+1. Figma + Canva
+2. Linux Bash
+3. Git & Git Bash
 ## Frontend
 ### HTML & CSS Basics
 ### Bootstrap + Tailwind CSS
