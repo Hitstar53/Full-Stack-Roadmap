@@ -13,12 +13,21 @@
 2. Bootstrap + Tailwind CSS
 3. JavaScript Basics
 4. REACT + Material UI
+
+![image](https://user-images.githubusercontent.com/84141920/211141160-6c0212c4-c921-437e-a54f-8a39c7201ae4.png)
+
 ## Backend 
 1. Python Basics
 2. Django & Flask
+
+![image](https://user-images.githubusercontent.com/84141920/211141204-ffcc4cc7-68d5-436b-82e5-68b8abaadacf.png)
+
 ## Database
 1. MongoDB & Supabase
 2. MySQL & PostgreSQL
+
+![image](https://user-images.githubusercontent.com/84141920/211141228-c5b2e8ca-28c1-4726-b08a-f566533de02a.png)
+
 ## Deployment 
 1. DigitalOcean + Railways
 2. Github Pages
