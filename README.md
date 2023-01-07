@@ -31,4 +31,4 @@
 4. Docker + Kubernetes <img align="right" src="https://progress-bar.dev/0"/>
 
 ### Overall Progress: <img align="right" src="https://progress-bar.dev/25"/>
-### (Jan 2023)
+(Jan 2023)
