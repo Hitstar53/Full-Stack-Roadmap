@@ -35,3 +35,13 @@
 
 ### Overall Progress: <img align="right" src="https://progress-bar.dev/25"/>
 (Jan 2023)
+
+# Capstone Projects
+## Frontend
+1. Manage Landing Page (HTML & CSS)
+2. 
+
+## Backend
+1. KDH Hospital Website (Flask)
+
+## Database
