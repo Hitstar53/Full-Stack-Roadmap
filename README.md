@@ -4,7 +4,7 @@
 ## Pre Requisites
 1. Figma & Canva <img align="right" src="https://progress-bar.dev/15"/>
 2. Linux Bash <img align="right" src="https://progress-bar.dev/35"/>
-3. Markdown <img align="right" src="https://progress-bar.dev/75"/>
+3. Markdown <img align="right" src="https://progress-bar.dev/85"/>
 4. Git & Git Bash <img align="right" src="https://progress-bar.dev/60"/>
 
 ## Frontend
@@ -38,11 +38,11 @@
 
 # Capstone Projects
 ## Frontend
-1. Manage Landing Page (HTML & CSS)
-2. 
+1. Manage Landing Page (html & css)
+2. SpaceX Website Clone (html, css & js
 
 ## Backend
-1. KDH Hospital Website (Flask)
+1. KDH Hospital Website (Flask & vanilla js)
 
 ## Database
 
