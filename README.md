@@ -39,7 +39,7 @@
 # Capstone Projects
 ## Frontend
 1. Manage Landing Page (html & css)
-2. SpaceX Website Clone (html, css & js
+2. SpaceX Website Clone (html, css & js)
 
 ## Backend
 1. KDH Hospital Website (Flask & vanilla js)
