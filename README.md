@@ -9,9 +9,9 @@
 
 ## Frontend
 1. HTML & CSS Basics <img align="right" src="https://progress-bar.dev/100">
-2. Bootstrap + Sass <img align="right" src="https://progress-bar.dev/70">
-3. Tailwind CSS <img align="right" src="https://progress-bar.dev/0">
-4. JavaScript Basics <img align="right" src="https://progress-bar.dev/65">
+2. Bootstrap + Sass <img align="right" src="https://progress-bar.dev/90">
+3. Tailwind CSS <img align="right" src="https://progress-bar.dev/75">
+4. JavaScript Basics <img align="right" src="https://progress-bar.dev/85">
 5. REACT Framework <img align="right" src="https://progress-bar.dev/0">
 6. Material UI <img align="right" src="https://progress-bar.dev/0">
 
@@ -39,11 +39,16 @@
 # Capstone Projects
 ## Frontend
 1. Manage Landing Page (html & css)
-2. SpaceX Website Clone (html, css & js)
+2. Testimonials project (css grid & flexbox)
+3. SpaceX Website Clone (html, css & js)
+4. Frontend Bootcamp Website (Bootstrap)
+5. Manage landing page v2 (Tailwind CSS)
 
 ## Backend
-1. KDH Hospital Website (Flask & vanilla js)
+1. KDH Hospital Website (Flask)
 
 ## Database
+1. DBMS Course sem III (CE)
 
 ## Full Stack
+1. KDH Hospital Website (html,css,js,flask & MySQL/SQLite)
