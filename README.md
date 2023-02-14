@@ -12,14 +12,14 @@
 2. Bootstrap + Sass <img align="right" src="https://progress-bar.dev/90">
 3. Tailwind CSS <img align="right" src="https://progress-bar.dev/75">
 4. JavaScript Basics <img align="right" src="https://progress-bar.dev/100">
-5. REACT Framework <img align="right" src="https://progress-bar.dev/35">
+5. REACT Framework <img align="right" src="https://progress-bar.dev/40">
 6. Material UI <img align="right" src="https://progress-bar.dev/0">
 
 ## Backend 
 1. Python Basics <img align="right" src="https://progress-bar.dev/100">
-2. Python Advanced <img align="right" src="https://progress-bar.dev/25">
+2. Python Advanced <img align="right" src="https://progress-bar.dev/30">
 3. Flask <img align="right" src="https://progress-bar.dev/90">
-4. Django <img align="right" src="https://progress-bar.dev/75">
+4. Django <img align="right" src="https://progress-bar.dev/55">
 
 ## Database
 1. MySQL & SQLite <img align="right" src="https://progress-bar.dev/100">
@@ -54,3 +54,4 @@
 ## Full Stack
 1. KDH Hospital Website (html,css,js,flask & MySQL/SQLite)
 2. Notes App (React & Django)
+3. OCL Event Website (Still in Progress)
