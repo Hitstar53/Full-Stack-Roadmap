@@ -11,21 +11,22 @@
 1. HTML & CSS Basics <img align="right" src="https://progress-bar.dev/100">
 2. Bootstrap <img align="right" src="https://progress-bar.dev/100">
 3. Tailwind CSS <img align="right" src="https://progress-bar.dev/75">
-4. JavaScript Basics <img align="right" src="https://progress-bar.dev/100">
-5. REACT Framework <img align="right" src="https://progress-bar.dev/40">
+4. JavaScript <img align="right" src="https://progress-bar.dev/75">
+5. REACT.js Framework <img align="right" src="https://progress-bar.dev/45">
 6. Material UI <img align="right" src="https://progress-bar.dev/0">
 7. Three.js <img align="right" src="https://progress-bar.dev/0">
 
 ## Backend 
-1. Python Basics <img align="right" src="https://progress-bar.dev/100">
-2. Python Advanced <img align="right" src="https://progress-bar.dev/30">
+1. Python <img align="right" src="https://progress-bar.dev/75">
 3. Flask <img align="right" src="https://progress-bar.dev/100">
-4. Django <img align="right" src="https://progress-bar.dev/60">
-5. REST API <img align="right" src="https://progress-bar.dev/25">
+4. Django <img align="right" src="https://progress-bar.dev/70">
+5. REST API <img align="right" src="https://progress-bar.dev/50">
+6. Node.js <img align="right" src="https://progress-bar.dev/0">
+7. NEXT.js <img align="right" src="https://progress-bar.dev/0">
 
 ## Database
 1. MySQL & SQLite <img align="right" src="https://progress-bar.dev/100">
-2. PostgreSQL <img align="right" src="https://progress-bar.dev/50"> 
+2. PostgreSQL <img align="right" src="https://progress-bar.dev/75"> 
 2. MongoDB <img align="right" src="https://progress-bar.dev/10">
 3. Firebase <img align="right" src="https://progress-bar.dev/0">
 
@@ -35,7 +36,7 @@
 3. DigitalOcean / Railways <img align="right" src="https://progress-bar.dev/100">
 4. Docker + Kubernetes <img align="right" src="https://progress-bar.dev/10">
 
-### Overall Progress: <img align="right" src="https://progress-bar.dev/50"/>
+### Overall Progress: <img align="right" src="https://progress-bar.dev/55"/>
 (April 2023)
 
 # Capstone Projects
@@ -58,3 +59,4 @@
 2. Notes App (React & Django)
 3. Code Red & Blue Lock (Django & Vanilla js)
 4. ReviewScope (Django & REST API with chrome extension)
+5. DevBuddy (Django & vanilla js)
